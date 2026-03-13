@@ -7,7 +7,7 @@
 <p align="center">🎓 GPA: 3.94 (Expected Graduation: May 2026)</p>
 
 
-🌱 I’m currently learning **Space exploration technologies**
+🌱 I’m currently learning **Trustworthy AI**
 
 📫 How to reach me **tavishisharma0505@gmail.com**
 
